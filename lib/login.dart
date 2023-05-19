@@ -30,6 +30,9 @@ class LoginController extends GetxController {
     }
   }
 
+
+
+
   signIn({
     String? emailAddress = 'jay1@gmail.com',
     String? password = '123456789',
